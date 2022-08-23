@@ -1,0 +1,11 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.container-fluied {
+    border: solid 4px gainsboro;
+    width: min-content;
+    margin: 10%;
+}
